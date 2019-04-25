@@ -1,6 +1,6 @@
-This is my first repo.
+This is still my first repo.
 
 There's nothing much interesting I want to say here.
-This is another line
+This is another line, tah dah!
 **that's enough**
-to show off
+is it really?
